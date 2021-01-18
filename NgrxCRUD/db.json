@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "id": "7dc6cde6-1c07-43bb-8e3b-cbd5f6f682cf",
+      "name": "java",
+      "description": "java ee"
+    },
+    {
+      "id": "f1d4b6c6-884c-4c4a-9e7b-d7be622696b1",
+      "name": "testse",
+      "description": "tete"
+    },
+    {
+      "id": "01599393-9f3d-4ebb-bc00-a82cbf9c12a5",
+      "name": "teste ",
+      "description": "teste"
+    }
+  ]
+}
